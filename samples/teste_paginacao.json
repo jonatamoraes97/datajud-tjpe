@@ -1,0 +1,3174 @@
+{
+  "primeira_pagina": {
+    "took": 1607,
+    "timed_out": false,
+    "_shards": {
+      "total": 1,
+      "successful": 1,
+      "skipped": 0,
+      "failed": 0
+    },
+    "hits": {
+      "total": {
+        "value": 10000,
+        "relation": "gte"
+      },
+      "max_score": null,
+      "hits": [
+        {
+          "_index": "api_publica_tjpe",
+          "_id": "TJPE_1208_G2_70647_00135093820098170000",
+          "_score": null,
+          "_source": {
+            "numeroProcesso": "00135093820098170000",
+            "classe": {
+              "codigo": 1208,
+              "nome": "Agravo Interno Cível"
+            },
+            "sistema": {
+              "codigo": 8,
+              "nome": "Outros"
+            },
+            "formato": {
+              "codigo": 2,
+              "nome": "Físico"
+            },
+            "tribunal": "TJPE",
+            "dataHoraUltimaAtualizacao": "2023-12-10T16:30:58.724Z",
+            "grau": "G2",
+            "@timestamp": "2025-05-30T21:09:58.962072745Z",
+            "dataAjuizamento": "2009-09-28T00:00:00.000Z",
+            "movimentos": [
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 18,
+                    "valor": 40,
+                    "nome": "outros motivos",
+                    "descricao": "motivo_da_remessa"
+                  }
+                ],
+                "codigo": 123,
+                "nome": "Remessa",
+                "dataHora": "2009-10-01T17:14:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 18,
+                    "valor": 40,
+                    "nome": "outros motivos",
+                    "descricao": "motivo_da_remessa"
+                  }
+                ],
+                "codigo": 123,
+                "nome": "Remessa",
+                "dataHora": "2023-11-22T14:26:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 117,
+                    "nome": "Acórdão",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 581,
+                "nome": "Documento",
+                "dataHora": "2009-11-09T13:32:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 107,
+                    "nome": "Certidão",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 581,
+                "nome": "Documento",
+                "dataHora": "2009-10-07T12:19:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 18,
+                    "valor": 40,
+                    "nome": "outros motivos",
+                    "descricao": "motivo_da_remessa"
+                  }
+                ],
+                "codigo": 123,
+                "nome": "Remessa",
+                "dataHora": "2009-11-09T13:33:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 107,
+                    "nome": "Certidão",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 581,
+                "nome": "Documento",
+                "dataHora": "2010-04-09T14:14:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 107,
+                    "nome": "Certidão",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 581,
+                "nome": "Documento",
+                "dataHora": "2018-01-12T15:35:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 107,
+                    "nome": "Certidão",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 581,
+                "nome": "Documento",
+                "dataHora": "2011-05-19T17:48:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 18,
+                    "valor": 40,
+                    "nome": "outros motivos",
+                    "descricao": "motivo_da_remessa"
+                  }
+                ],
+                "codigo": 123,
+                "nome": "Remessa",
+                "dataHora": "2010-04-29T11:39:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 18,
+                    "valor": 40,
+                    "nome": "outros motivos",
+                    "descricao": "motivo_da_remessa"
+                  }
+                ],
+                "codigo": 123,
+                "nome": "Remessa",
+                "dataHora": "2010-03-23T11:26:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 2,
+                    "valor": 1,
+                    "nome": "competência exclusiva",
+                    "descricao": "tipo_de_distribuicao_redistribuicao"
+                  },
+                  {
+                    "codigo": 17,
+                    "valor": 34,
+                    "nome": "sucessão",
+                    "descricao": "motivo_da_redistribuicao"
+                  }
+                ],
+                "codigo": 36,
+                "nome": "Redistribuição",
+                "dataHora": "2021-06-08T13:51:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 107,
+                    "nome": "Certidão",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 581,
+                "nome": "Documento",
+                "dataHora": "2009-12-03T10:12:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 18,
+                    "valor": 40,
+                    "nome": "outros motivos",
+                    "descricao": "motivo_da_remessa"
+                  }
+                ],
+                "codigo": 123,
+                "nome": "Remessa",
+                "dataHora": "2009-12-02T12:34:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "valor": 5,
+                    "nome": "para despacho",
+                    "descricao": "tipo_de_conclusao"
+                  }
+                ],
+                "codigo": 51,
+                "nome": "Conclusão",
+                "dataHora": "2009-10-07T12:21:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "valor": 36,
+                    "nome": "para julgamento",
+                    "descricao": "tipo_de_conclusao"
+                  }
+                ],
+                "codigo": 51,
+                "nome": "Conclusão",
+                "dataHora": "2009-10-29T19:44:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 107,
+                    "nome": "Certidão",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 581,
+                "nome": "Documento",
+                "dataHora": "2011-12-20T13:50:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 80,
+                    "nome": "Outros documentos",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 581,
+                "nome": "Documento",
+                "dataHora": "2009-10-29T14:01:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 18,
+                    "valor": 40,
+                    "nome": "outros motivos",
+                    "descricao": "motivo_da_remessa"
+                  }
+                ],
+                "codigo": 123,
+                "nome": "Remessa",
+                "dataHora": "2010-03-01T12:09:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 107,
+                    "nome": "Certidão",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 581,
+                "nome": "Documento",
+                "dataHora": "2010-03-02T16:25:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 2,
+                    "valor": 1,
+                    "nome": "competência exclusiva",
+                    "descricao": "tipo_de_distribuicao_redistribuicao"
+                  }
+                ],
+                "codigo": 26,
+                "nome": "Distribuição",
+                "dataHora": "2009-10-01T17:13:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 107,
+                    "nome": "Certidão",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 581,
+                "nome": "Documento",
+                "dataHora": "2009-12-03T10:13:00.000Z"
+              },
+              {
+                "codigo": 12115,
+                "nome": "Para julgamento de mérito",
+                "dataHora": "2009-10-29T13:50:00.000Z"
+              },
+              {
+                "codigo": 893,
+                "nome": "Desarquivamento",
+                "dataHora": "2023-11-22T14:24:00.000Z"
+              },
+              {
+                "codigo": 193,
+                "nome": "Julgamento",
+                "dataHora": "2009-10-29T14:00:00.000Z"
+              },
+              {
+                "codigo": 245,
+                "nome": "Provisório",
+                "dataHora": "2021-06-08T13:54:00.000Z"
+              },
+              {
+                "codigo": 245,
+                "nome": "Provisório",
+                "dataHora": "2014-08-07T15:35:00.000Z"
+              },
+              {
+                "codigo": 893,
+                "nome": "Desarquivamento",
+                "dataHora": "2018-01-12T15:31:00.000Z"
+              }
+            ],
+            "id": "TJPE_1208_G2_70647_00135093820098170000",
+            "nivelSigilo": 0,
+            "orgaoJulgador": {
+              "codigoMunicipioIBGE": 2611606,
+              "codigo": 70647,
+              "nome": "Gab. Des. Itabira de Brito Filho"
+            },
+            "assuntos": [
+              {
+                "codigo": 5001,
+                "nome": "Liquidação"
+              }
+            ]
+          },
+          "sort": [
+            "TJPE_1208_G2_70647_00135093820098170000"
+          ]
+        },
+        {
+          "_index": "api_publica_tjpe",
+          "_id": "TJPE_12135_G1_7500_00080247220218178201",
+          "_score": null,
+          "_source": {
+            "numeroProcesso": "00080247220218178201",
+            "classe": {
+              "codigo": 12135,
+              "nome": "Tutela Antecipada Antecedente"
+            },
+            "sistema": {
+              "codigo": 1,
+              "nome": "Pje"
+            },
+            "formato": {
+              "codigo": 1,
+              "nome": "Eletrônico"
+            },
+            "tribunal": "TJPE",
+            "dataHoraUltimaAtualizacao": "2022-09-22T19:14:35.889Z",
+            "grau": "G1",
+            "@timestamp": "2025-05-30T19:42:28.244245953Z",
+            "dataAjuizamento": "2021-02-24T00:00:00.000Z",
+            "movimentos": [
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 2,
+                    "valor": 2,
+                    "nome": "sorteio",
+                    "descricao": "tipo_de_distribuicao_redistribuicao"
+                  }
+                ],
+                "codigo": 26,
+                "nome": "Distribuição",
+                "dataHora": "2021-02-24T15:11:36.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 15,
+                    "valor": 9,
+                    "nome": "designada",
+                    "descricao": "situacao_da_audiencia"
+                  }
+                ],
+                "codigo": 12750,
+                "nome": "de Instrução e Julgamento",
+                "dataHora": "2021-02-24T15:11:44.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "valor": 6,
+                    "nome": "para decisão",
+                    "descricao": "tipo_de_conclusao"
+                  }
+                ],
+                "codigo": 51,
+                "nome": "Conclusão",
+                "dataHora": "2021-02-24T15:11:44.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 80,
+                    "nome": "Outros documentos",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 60,
+                "nome": "Expedição de documento",
+                "dataHora": "2021-04-12T22:58:06.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 19,
+                    "valor": 57,
+                    "nome": "Petição (outras)",
+                    "descricao": "tipo_de_peticao"
+                  }
+                ],
+                "codigo": 85,
+                "nome": "Petição",
+                "dataHora": "2021-04-26T14:45:07.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 107,
+                    "nome": "Certidão",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 60,
+                "nome": "Expedição de documento",
+                "dataHora": "2021-04-26T16:04:55.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 15,
+                    "valor": 11,
+                    "nome": "cancelada",
+                    "descricao": "situacao_da_audiencia"
+                  }
+                ],
+                "codigo": 12750,
+                "nome": "de Instrução e Julgamento",
+                "dataHora": "2021-04-27T22:03:12.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 107,
+                    "nome": "Certidão",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 60,
+                "nome": "Expedição de documento",
+                "dataHora": "2021-04-27T22:08:49.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "valor": 6,
+                    "nome": "para decisão",
+                    "descricao": "tipo_de_conclusao"
+                  }
+                ],
+                "codigo": 51,
+                "nome": "Conclusão",
+                "dataHora": "2021-04-27T22:09:21.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 19,
+                    "valor": 57,
+                    "nome": "Petição (outras)",
+                    "descricao": "tipo_de_peticao"
+                  }
+                ],
+                "codigo": 85,
+                "nome": "Petição",
+                "dataHora": "2021-05-10T10:09:52.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 19,
+                    "valor": 57,
+                    "nome": "Petição (outras)",
+                    "descricao": "tipo_de_peticao"
+                  }
+                ],
+                "codigo": 85,
+                "nome": "Petição",
+                "dataHora": "2021-07-19T11:52:28.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 80,
+                    "nome": "Outros documentos",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 60,
+                "nome": "Expedição de documento",
+                "dataHora": "2022-01-11T17:08:49.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 107,
+                    "nome": "Certidão",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 60,
+                "nome": "Expedição de documento",
+                "dataHora": "2022-01-11T17:09:56.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "valor": 5,
+                    "nome": "para despacho",
+                    "descricao": "tipo_de_conclusao"
+                  }
+                ],
+                "codigo": 51,
+                "nome": "Conclusão",
+                "dataHora": "2022-01-11T17:10:08.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 18,
+                    "valor": 40,
+                    "nome": "outros motivos",
+                    "descricao": "motivo_da_remessa"
+                  }
+                ],
+                "codigo": 123,
+                "nome": "Remessa",
+                "dataHora": "2022-01-11T17:10:37.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 2,
+                    "valor": 2,
+                    "nome": "sorteio",
+                    "descricao": "tipo_de_distribuicao_redistribuicao"
+                  },
+                  {
+                    "codigo": 17,
+                    "valor": 83,
+                    "nome": "incompetência",
+                    "descricao": "motivo_da_redistribuicao"
+                  }
+                ],
+                "codigo": 36,
+                "nome": "Redistribuição",
+                "dataHora": "2022-01-11T17:10:38.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "valor": 6,
+                    "nome": "para decisão",
+                    "descricao": "tipo_de_conclusao"
+                  }
+                ],
+                "codigo": 51,
+                "nome": "Conclusão",
+                "dataHora": "2022-02-03T11:32:22.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 79,
+                    "nome": "Ofício",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 60,
+                "nome": "Expedição de documento",
+                "dataHora": "2022-02-22T12:14:54.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 79,
+                    "nome": "Ofício",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 60,
+                "nome": "Expedição de documento",
+                "dataHora": "2022-02-23T08:51:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 80,
+                    "nome": "Outros documentos",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 60,
+                "nome": "Expedição de documento",
+                "dataHora": "2022-03-25T18:33:37.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 107,
+                    "nome": "Certidão",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 60,
+                "nome": "Expedição de documento",
+                "dataHora": "2022-08-09T07:08:58.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 80,
+                    "nome": "Outros documentos",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 60,
+                "nome": "Expedição de documento",
+                "dataHora": "2022-08-10T08:34:56.000Z"
+              },
+              {
+                "codigo": 10966,
+                "nome": "Mudança de Classe Processual",
+                "dataHora": "2022-01-11T17:09:09.000Z"
+              },
+              {
+                "codigo": 11010,
+                "nome": "Mero expediente",
+                "dataHora": "2021-04-02T15:07:39.000Z"
+              },
+              {
+                "codigo": 941,
+                "nome": "Incompetência",
+                "dataHora": "2021-12-24T21:34:43.000Z"
+              },
+              {
+                "codigo": 12291,
+                "nome": "Movimentação processual",
+                "dataHora": "2022-01-11T17:10:12.000Z"
+              },
+              {
+                "codigo": 961,
+                "nome": "Suscitação de Conflito de Competência",
+                "dataHora": "2022-02-18T17:36:15.000Z"
+              }
+            ],
+            "id": "TJPE_12135_G1_7500_00080247220218178201",
+            "nivelSigilo": 0,
+            "orgaoJulgador": {
+              "codigoMunicipioIBGE": 2607901,
+              "codigo": 7500,
+              "nome": "1ª VARA DA FAZENDA PÚBLICA DA COMARCA DE JABOATÃO DOS GUARARAPES"
+            },
+            "assuntos": [
+              {
+                "codigo": 8961,
+                "nome": "Antecipação de Tutela / Tutela Específica"
+              }
+            ]
+          },
+          "sort": [
+            "TJPE_12135_G1_7500_00080247220218178201"
+          ]
+        },
+        {
+          "_index": "api_publica_tjpe",
+          "_id": "TJPE_12135_G1_7549_00435613220218178201",
+          "_score": null,
+          "_source": {
+            "numeroProcesso": "00435613220218178201",
+            "classe": {
+              "codigo": 12135,
+              "nome": "Tutela Antecipada Antecedente"
+            },
+            "sistema": {
+              "codigo": 1,
+              "nome": "Pje"
+            },
+            "formato": {
+              "codigo": 1,
+              "nome": "Eletrônico"
+            },
+            "tribunal": "TJPE",
+            "dataHoraUltimaAtualizacao": "2022-10-17T03:13:46.654Z",
+            "grau": "G1",
+            "@timestamp": "2025-05-30T19:42:29.621556814Z",
+            "dataAjuizamento": "2021-10-05T00:00:00.000Z",
+            "movimentos": [
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 2,
+                    "valor": 2,
+                    "nome": "sorteio",
+                    "descricao": "tipo_de_distribuicao_redistribuicao"
+                  }
+                ],
+                "codigo": 26,
+                "nome": "Distribuição",
+                "dataHora": "2021-10-05T17:40:02.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 80,
+                    "nome": "Outros documentos",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 60,
+                "nome": "Expedição de documento",
+                "dataHora": "2021-10-20T15:36:15.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 19,
+                    "valor": 57,
+                    "nome": "Petição (outras)",
+                    "descricao": "tipo_de_peticao"
+                  }
+                ],
+                "codigo": 85,
+                "nome": "Petição",
+                "dataHora": "2021-10-25T19:31:37.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 19,
+                    "valor": 57,
+                    "nome": "Petição (outras)",
+                    "descricao": "tipo_de_peticao"
+                  }
+                ],
+                "codigo": 85,
+                "nome": "Petição",
+                "dataHora": "2021-12-01T17:30:43.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "valor": 5,
+                    "nome": "para despacho",
+                    "descricao": "tipo_de_conclusao"
+                  }
+                ],
+                "codigo": 51,
+                "nome": "Conclusão",
+                "dataHora": "2021-12-03T18:01:35.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 107,
+                    "nome": "Certidão",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 60,
+                "nome": "Expedição de documento",
+                "dataHora": "2021-12-03T18:02:23.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 107,
+                    "nome": "Certidão",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 60,
+                "nome": "Expedição de documento",
+                "dataHora": "2021-12-03T18:04:45.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 19,
+                    "valor": 57,
+                    "nome": "Petição (outras)",
+                    "descricao": "tipo_de_peticao"
+                  }
+                ],
+                "codigo": 85,
+                "nome": "Petição",
+                "dataHora": "2021-12-07T13:31:13.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 80,
+                    "nome": "Outros documentos",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 60,
+                "nome": "Expedição de documento",
+                "dataHora": "2022-01-10T17:54:54.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 107,
+                    "nome": "Certidão",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 60,
+                "nome": "Expedição de documento",
+                "dataHora": "2022-01-10T17:55:57.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "valor": 5,
+                    "nome": "para despacho",
+                    "descricao": "tipo_de_conclusao"
+                  }
+                ],
+                "codigo": 51,
+                "nome": "Conclusão",
+                "dataHora": "2022-01-10T17:56:06.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 18,
+                    "valor": 40,
+                    "nome": "outros motivos",
+                    "descricao": "motivo_da_remessa"
+                  }
+                ],
+                "codigo": 123,
+                "nome": "Remessa",
+                "dataHora": "2022-01-10T17:56:35.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 2,
+                    "valor": 2,
+                    "nome": "sorteio",
+                    "descricao": "tipo_de_distribuicao_redistribuicao"
+                  },
+                  {
+                    "codigo": 17,
+                    "valor": 83,
+                    "nome": "incompetência",
+                    "descricao": "motivo_da_redistribuicao"
+                  }
+                ],
+                "codigo": 36,
+                "nome": "Redistribuição",
+                "dataHora": "2022-01-10T17:56:36.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "valor": 5,
+                    "nome": "para despacho",
+                    "descricao": "tipo_de_conclusao"
+                  }
+                ],
+                "codigo": 51,
+                "nome": "Conclusão",
+                "dataHora": "2022-03-11T11:20:29.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 80,
+                    "nome": "Outros documentos",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 60,
+                "nome": "Expedição de documento",
+                "dataHora": "2022-04-06T06:23:07.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 79,
+                    "nome": "Ofício",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 60,
+                "nome": "Expedição de documento",
+                "dataHora": "2022-04-06T21:55:01.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 107,
+                    "nome": "Certidão",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 60,
+                "nome": "Expedição de documento",
+                "dataHora": "2022-04-08T06:59:14.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 80,
+                    "nome": "Outros documentos",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 60,
+                "nome": "Expedição de documento",
+                "dataHora": "2022-04-29T15:40:58.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "valor": 5,
+                    "nome": "para despacho",
+                    "descricao": "tipo_de_conclusao"
+                  }
+                ],
+                "codigo": 51,
+                "nome": "Conclusão",
+                "dataHora": "2022-05-03T11:31:32.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 80,
+                    "nome": "Outros documentos",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 60,
+                "nome": "Expedição de documento",
+                "dataHora": "2022-05-05T13:49:45.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 80,
+                    "nome": "Outros documentos",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 60,
+                "nome": "Expedição de documento",
+                "dataHora": "2022-05-07T08:48:44.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 80,
+                    "nome": "Outros documentos",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 60,
+                "nome": "Expedição de documento",
+                "dataHora": "2022-09-15T03:54:55.000Z"
+              },
+              {
+                "codigo": 10966,
+                "nome": "Mudança de Classe Processual",
+                "dataHora": "2022-01-10T17:55:13.000Z"
+              },
+              {
+                "codigo": 941,
+                "nome": "Incompetência",
+                "dataHora": "2021-12-19T15:54:56.000Z"
+              },
+              {
+                "codigo": 12291,
+                "nome": "Movimentação processual",
+                "dataHora": "2022-01-10T17:56:09.000Z"
+              },
+              {
+                "codigo": 961,
+                "nome": "Suscitação de Conflito de Competência",
+                "dataHora": "2022-03-28T14:03:09.000Z"
+              }
+            ],
+            "id": "TJPE_12135_G1_7549_00435613220218178201",
+            "nivelSigilo": 0,
+            "orgaoJulgador": {
+              "codigoMunicipioIBGE": 2607901,
+              "codigo": 7549,
+              "nome": "2ª VARA DA FAZENDA PÚBLICA DA COMARCA DE JABOATÃO DOS GUARARAPES"
+            },
+            "assuntos": [
+              {
+                "codigo": 8961,
+                "nome": "Antecipação de Tutela / Tutela Específica"
+              }
+            ]
+          },
+          "sort": [
+            "TJPE_12135_G1_7549_00435613220218178201"
+          ]
+        },
+        {
+          "_index": "api_publica_tjpe",
+          "_id": "TJPE_12154_G1_18074_00035845420058170001",
+          "_score": null,
+          "_source": {
+            "numeroProcesso": "00035845420058170001",
+            "classe": {
+              "codigo": 12154,
+              "nome": "Execução de Título Extrajudicial"
+            },
+            "sistema": {
+              "codigo": 1,
+              "nome": "Pje"
+            },
+            "formato": {
+              "codigo": 1,
+              "nome": "Eletrônico"
+            },
+            "tribunal": "TJPE",
+            "dataHoraUltimaAtualizacao": "2021-06-22T01:28:38.572Z",
+            "grau": "G1",
+            "@timestamp": "2025-05-30T18:34:36.849023470Z",
+            "dataAjuizamento": "2005-02-15T00:00:00.000Z",
+            "movimentos": [
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 2,
+                    "valor": 2,
+                    "nome": "sorteio",
+                    "descricao": "tipo_de_distribuicao_redistribuicao"
+                  }
+                ],
+                "codigo": 26,
+                "nome": "Distribuição",
+                "dataHora": "2005-02-15T17:35:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "valor": 5,
+                    "nome": "para despacho",
+                    "descricao": "tipo_de_conclusao"
+                  }
+                ],
+                "codigo": 51,
+                "nome": "Conclusão",
+                "dataHora": "2005-02-21T14:55:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 78,
+                    "nome": "Mandado",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 581,
+                "nome": "Documento",
+                "dataHora": "2005-06-10T17:28:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "valor": 5,
+                    "nome": "para despacho",
+                    "descricao": "tipo_de_conclusao"
+                  }
+                ],
+                "codigo": 51,
+                "nome": "Conclusão",
+                "dataHora": "2005-06-10T17:38:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 19,
+                    "valor": 57,
+                    "nome": "Petição (outras)",
+                    "descricao": "tipo_de_peticao"
+                  }
+                ],
+                "codigo": 85,
+                "nome": "Petição",
+                "dataHora": "2006-01-24T16:28:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "valor": 5,
+                    "nome": "para despacho",
+                    "descricao": "tipo_de_conclusao"
+                  }
+                ],
+                "codigo": 51,
+                "nome": "Conclusão",
+                "dataHora": "2006-01-24T16:38:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 19,
+                    "valor": 57,
+                    "nome": "Petição (outras)",
+                    "descricao": "tipo_de_peticao"
+                  }
+                ],
+                "codigo": 85,
+                "nome": "Petição",
+                "dataHora": "2006-03-09T16:27:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 78,
+                    "nome": "Mandado",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 581,
+                "nome": "Documento",
+                "dataHora": "2006-06-01T13:33:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 19,
+                    "valor": 57,
+                    "nome": "Petição (outras)",
+                    "descricao": "tipo_de_peticao"
+                  }
+                ],
+                "codigo": 85,
+                "nome": "Petição",
+                "dataHora": "2006-06-19T13:52:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "valor": 5,
+                    "nome": "para despacho",
+                    "descricao": "tipo_de_conclusao"
+                  }
+                ],
+                "codigo": 51,
+                "nome": "Conclusão",
+                "dataHora": "2006-07-18T16:14:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 19,
+                    "valor": 57,
+                    "nome": "Petição (outras)",
+                    "descricao": "tipo_de_peticao"
+                  }
+                ],
+                "codigo": 85,
+                "nome": "Petição",
+                "dataHora": "2006-08-24T12:37:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "valor": 5,
+                    "nome": "para despacho",
+                    "descricao": "tipo_de_conclusao"
+                  }
+                ],
+                "codigo": 51,
+                "nome": "Conclusão",
+                "dataHora": "2006-08-24T12:47:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 19,
+                    "valor": 57,
+                    "nome": "Petição (outras)",
+                    "descricao": "tipo_de_peticao"
+                  }
+                ],
+                "codigo": 85,
+                "nome": "Petição",
+                "dataHora": "2009-02-17T13:00:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "valor": 5,
+                    "nome": "para despacho",
+                    "descricao": "tipo_de_conclusao"
+                  }
+                ],
+                "codigo": 51,
+                "nome": "Conclusão",
+                "dataHora": "2009-02-17T13:30:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 19,
+                    "valor": 57,
+                    "nome": "Petição (outras)",
+                    "descricao": "tipo_de_peticao"
+                  }
+                ],
+                "codigo": 85,
+                "nome": "Petição",
+                "dataHora": "2009-03-26T13:59:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "valor": 5,
+                    "nome": "para despacho",
+                    "descricao": "tipo_de_conclusao"
+                  }
+                ],
+                "codigo": 51,
+                "nome": "Conclusão",
+                "dataHora": "2009-03-26T14:02:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 19,
+                    "valor": 57,
+                    "nome": "Petição (outras)",
+                    "descricao": "tipo_de_peticao"
+                  }
+                ],
+                "codigo": 85,
+                "nome": "Petição",
+                "dataHora": "2011-01-11T15:00:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "valor": 5,
+                    "nome": "para despacho",
+                    "descricao": "tipo_de_conclusao"
+                  }
+                ],
+                "codigo": 51,
+                "nome": "Conclusão",
+                "dataHora": "2011-01-11T15:30:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 170,
+                    "nome": "Carta",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 60,
+                "nome": "Expedição de documento",
+                "dataHora": "2012-01-12T11:40:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 74,
+                    "nome": "Aviso de recebimento (AR)",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 581,
+                "nome": "Documento",
+                "dataHora": "2012-02-13T13:00:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 2,
+                    "valor": 85,
+                    "nome": "sorteio manual",
+                    "descricao": "tipo_de_distribuicao_redistribuicao"
+                  },
+                  {
+                    "codigo": 17,
+                    "valor": 83,
+                    "nome": "incompetência",
+                    "descricao": "motivo_da_redistribuicao"
+                  }
+                ],
+                "codigo": 36,
+                "nome": "Redistribuição",
+                "dataHora": "2014-09-30T01:08:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "valor": 5,
+                    "nome": "para despacho",
+                    "descricao": "tipo_de_conclusao"
+                  }
+                ],
+                "codigo": 51,
+                "nome": "Conclusão",
+                "dataHora": "2014-12-16T11:18:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 19,
+                    "valor": 57,
+                    "nome": "Petição (outras)",
+                    "descricao": "tipo_de_peticao"
+                  }
+                ],
+                "codigo": 85,
+                "nome": "Petição",
+                "dataHora": "2017-03-21T08:11:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "valor": 5,
+                    "nome": "para despacho",
+                    "descricao": "tipo_de_conclusao"
+                  }
+                ],
+                "codigo": 51,
+                "nome": "Conclusão",
+                "dataHora": "2017-03-21T10:56:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 19,
+                    "valor": 57,
+                    "nome": "Petição (outras)",
+                    "descricao": "tipo_de_peticao"
+                  }
+                ],
+                "codigo": 85,
+                "nome": "Petição",
+                "dataHora": "2018-06-12T10:07:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "valor": 5,
+                    "nome": "para despacho",
+                    "descricao": "tipo_de_conclusao"
+                  }
+                ],
+                "codigo": 51,
+                "nome": "Conclusão",
+                "dataHora": "2018-06-12T10:10:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 19,
+                    "valor": 57,
+                    "nome": "Petição (outras)",
+                    "descricao": "tipo_de_peticao"
+                  }
+                ],
+                "codigo": 85,
+                "nome": "Petição",
+                "dataHora": "2019-06-06T08:00:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "valor": 5,
+                    "nome": "para despacho",
+                    "descricao": "tipo_de_conclusao"
+                  }
+                ],
+                "codigo": 51,
+                "nome": "Conclusão",
+                "dataHora": "2019-06-06T08:22:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 80,
+                    "nome": "Outros documentos",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 581,
+                "nome": "Documento",
+                "dataHora": "2021-01-26T12:48:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 19,
+                    "valor": 57,
+                    "nome": "Petição (outras)",
+                    "descricao": "tipo_de_peticao"
+                  }
+                ],
+                "codigo": 85,
+                "nome": "Petição",
+                "dataHora": "2021-01-26T12:51:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 107,
+                    "nome": "Certidão",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 60,
+                "nome": "Expedição de documento",
+                "dataHora": "2021-01-26T12:51:20.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 80,
+                    "nome": "Outros documentos",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 581,
+                "nome": "Documento",
+                "dataHora": "2021-02-01T09:34:59.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "valor": 5,
+                    "nome": "para despacho",
+                    "descricao": "tipo_de_conclusao"
+                  }
+                ],
+                "codigo": 51,
+                "nome": "Conclusão",
+                "dataHora": "2021-02-01T09:35:14.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 34,
+                    "valor": 169,
+                    "nome": "Retificada a autuação",
+                    "descricao": "motivos_de_registro"
+                  }
+                ],
+                "codigo": 12296,
+                "nome": "Registro Processual",
+                "dataHora": "2021-02-08T11:40:07.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 80,
+                    "nome": "Outros documentos",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 60,
+                "nome": "Expedição de documento",
+                "dataHora": "2021-02-08T11:41:54.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 19,
+                    "valor": 71,
+                    "nome": "Resposta",
+                    "descricao": "tipo_de_peticao"
+                  }
+                ],
+                "codigo": 85,
+                "nome": "Petição",
+                "dataHora": "2021-02-10T17:37:22.000Z"
+              },
+              {
+                "codigo": 11010,
+                "nome": "Mero expediente",
+                "dataHora": "2005-03-17T17:06:00.000Z"
+              },
+              {
+                "codigo": 11010,
+                "nome": "Mero expediente",
+                "dataHora": "2006-01-13T16:04:00.000Z"
+              },
+              {
+                "codigo": 11010,
+                "nome": "Mero expediente",
+                "dataHora": "2006-03-09T16:05:00.000Z"
+              },
+              {
+                "codigo": 12271,
+                "nome": "Petição",
+                "dataHora": "2006-03-23T15:01:00.000Z"
+              },
+              {
+                "codigo": 11010,
+                "nome": "Mero expediente",
+                "dataHora": "2012-01-12T11:37:00.000Z"
+              },
+              {
+                "codigo": 11010,
+                "nome": "Mero expediente",
+                "dataHora": "2016-11-28T12:49:00.000Z"
+              },
+              {
+                "codigo": 493,
+                "nome": "Entrega em carga/vista",
+                "dataHora": "2020-09-15T10:27:00.000Z"
+              },
+              {
+                "codigo": 132,
+                "nome": "Recebimento",
+                "dataHora": "2021-01-26T12:45:00.000Z"
+              },
+              {
+                "codigo": 11010,
+                "nome": "Mero expediente",
+                "dataHora": "2021-02-01T16:59:34.000Z"
+              }
+            ],
+            "id": "TJPE_12154_G1_18074_00035845420058170001",
+            "nivelSigilo": 0,
+            "orgaoJulgador": {
+              "codigoMunicipioIBGE": 2611606,
+              "codigo": 18074,
+              "nome": "1ª VARA DE EXECUÇÃO DE TÍTULOS EXTRAJUDICIAIS DA CAPITAL - SEÇÃO A"
+            },
+            "assuntos": [
+              {
+                "codigo": 4964,
+                "nome": "Cédula de Crédito Rural"
+              }
+            ]
+          },
+          "sort": [
+            "TJPE_12154_G1_18074_00035845420058170001"
+          ]
+        },
+        {
+          "_index": "api_publica_tjpe",
+          "_id": "TJPE_1295_G1_6914_00019284020168170110",
+          "_score": null,
+          "_source": {
+            "numeroProcesso": "00019284020168170110",
+            "classe": {
+              "codigo": 1295,
+              "nome": "Alvará Judicial"
+            },
+            "sistema": {
+              "codigo": 8,
+              "nome": "Outros"
+            },
+            "formato": {
+              "codigo": 2,
+              "nome": "Físico"
+            },
+            "tribunal": "TJPE",
+            "dataHoraUltimaAtualizacao": "2023-07-29T08:49:21.108Z",
+            "grau": "G1",
+            "@timestamp": "2025-05-30T20:39:46.562237125Z",
+            "dataAjuizamento": "2016-09-23T00:00:00.000Z",
+            "movimentos": [
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 2,
+                    "valor": 4,
+                    "nome": "dependência",
+                    "descricao": "tipo_de_distribuicao_redistribuicao"
+                  }
+                ],
+                "codigo": 26,
+                "nome": "Distribuição",
+                "dataHora": "2016-09-23T13:25:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "valor": 5,
+                    "nome": "para despacho",
+                    "descricao": "tipo_de_conclusao"
+                  }
+                ],
+                "codigo": 51,
+                "nome": "Conclusão",
+                "dataHora": "2016-09-26T14:53:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 79,
+                    "nome": "Ofício",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 60,
+                "nome": "Expedição de documento",
+                "dataHora": "2016-10-20T08:29:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "valor": 5,
+                    "nome": "para despacho",
+                    "descricao": "tipo_de_conclusao"
+                  }
+                ],
+                "codigo": 51,
+                "nome": "Conclusão",
+                "dataHora": "2016-10-21T13:06:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 79,
+                    "nome": "Ofício",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 581,
+                "nome": "Documento",
+                "dataHora": "2016-11-18T17:33:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 79,
+                    "nome": "Ofício",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 581,
+                "nome": "Documento",
+                "dataHora": "2016-11-18T17:34:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "valor": 5,
+                    "nome": "para despacho",
+                    "descricao": "tipo_de_conclusao"
+                  }
+                ],
+                "codigo": 51,
+                "nome": "Conclusão",
+                "dataHora": "2016-11-18T17:35:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 19,
+                    "valor": 57,
+                    "nome": "Petição (outras)",
+                    "descricao": "tipo_de_peticao"
+                  }
+                ],
+                "codigo": 85,
+                "nome": "Petição",
+                "dataHora": "2017-02-02T17:33:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 79,
+                    "nome": "Ofício",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 60,
+                "nome": "Expedição de documento",
+                "dataHora": "2017-02-23T09:18:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 79,
+                    "nome": "Ofício",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 581,
+                "nome": "Documento",
+                "dataHora": "2017-03-02T14:04:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 79,
+                    "nome": "Ofício",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 581,
+                "nome": "Documento",
+                "dataHora": "2017-04-10T16:47:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "valor": 5,
+                    "nome": "para despacho",
+                    "descricao": "tipo_de_conclusao"
+                  }
+                ],
+                "codigo": 51,
+                "nome": "Conclusão",
+                "dataHora": "2017-04-10T16:50:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 19,
+                    "valor": 57,
+                    "nome": "Petição (outras)",
+                    "descricao": "tipo_de_peticao"
+                  }
+                ],
+                "codigo": 85,
+                "nome": "Petição",
+                "dataHora": "2017-05-04T13:54:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "valor": 5,
+                    "nome": "para despacho",
+                    "descricao": "tipo_de_conclusao"
+                  }
+                ],
+                "codigo": 51,
+                "nome": "Conclusão",
+                "dataHora": "2017-05-04T13:57:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 18,
+                    "valor": 40,
+                    "nome": "outros motivos",
+                    "descricao": "motivo_da_remessa"
+                  }
+                ],
+                "codigo": 123,
+                "nome": "Remessa",
+                "dataHora": "2017-10-13T14:09:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 2,
+                    "valor": 2,
+                    "nome": "sorteio",
+                    "descricao": "tipo_de_distribuicao_redistribuicao"
+                  },
+                  {
+                    "codigo": 17,
+                    "valor": 83,
+                    "nome": "incompetência",
+                    "descricao": "motivo_da_redistribuicao"
+                  }
+                ],
+                "codigo": 36,
+                "nome": "Redistribuição",
+                "dataHora": "2017-10-17T11:31:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "valor": 5,
+                    "nome": "para despacho",
+                    "descricao": "tipo_de_conclusao"
+                  }
+                ],
+                "codigo": 51,
+                "nome": "Conclusão",
+                "dataHora": "2017-10-20T10:12:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "valor": 5,
+                    "nome": "para despacho",
+                    "descricao": "tipo_de_conclusao"
+                  }
+                ],
+                "codigo": 51,
+                "nome": "Conclusão",
+                "dataHora": "2018-04-13T12:46:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 78,
+                    "nome": "Mandado",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 60,
+                "nome": "Expedição de documento",
+                "dataHora": "2019-01-07T15:39:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 79,
+                    "nome": "Ofício",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 60,
+                "nome": "Expedição de documento",
+                "dataHora": "2019-01-07T15:48:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 79,
+                    "nome": "Ofício",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 581,
+                "nome": "Documento",
+                "dataHora": "2019-02-08T09:01:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 78,
+                    "nome": "Mandado",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 581,
+                "nome": "Documento",
+                "dataHora": "2019-02-14T09:21:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 80,
+                    "nome": "Outros documentos",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 581,
+                "nome": "Documento",
+                "dataHora": "2019-02-14T09:25:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "valor": 5,
+                    "nome": "para despacho",
+                    "descricao": "tipo_de_conclusao"
+                  }
+                ],
+                "codigo": 51,
+                "nome": "Conclusão",
+                "dataHora": "2019-03-14T09:29:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 79,
+                    "nome": "Ofício",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 581,
+                "nome": "Documento",
+                "dataHora": "2019-03-19T08:53:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "valor": 5,
+                    "nome": "para despacho",
+                    "descricao": "tipo_de_conclusao"
+                  }
+                ],
+                "codigo": 51,
+                "nome": "Conclusão",
+                "dataHora": "2019-03-19T08:56:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 19,
+                    "valor": 57,
+                    "nome": "Petição (outras)",
+                    "descricao": "tipo_de_peticao"
+                  }
+                ],
+                "codigo": 85,
+                "nome": "Petição",
+                "dataHora": "2019-09-25T17:00:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "valor": 5,
+                    "nome": "para despacho",
+                    "descricao": "tipo_de_conclusao"
+                  }
+                ],
+                "codigo": 51,
+                "nome": "Conclusão",
+                "dataHora": "2019-10-11T11:55:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 19,
+                    "valor": 57,
+                    "nome": "Petição (outras)",
+                    "descricao": "tipo_de_peticao"
+                  }
+                ],
+                "codigo": 85,
+                "nome": "Petição",
+                "dataHora": "2020-02-17T09:46:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "valor": 5,
+                    "nome": "para despacho",
+                    "descricao": "tipo_de_conclusao"
+                  }
+                ],
+                "codigo": 51,
+                "nome": "Conclusão",
+                "dataHora": "2020-02-17T09:49:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 19,
+                    "valor": 57,
+                    "nome": "Petição (outras)",
+                    "descricao": "tipo_de_peticao"
+                  }
+                ],
+                "codigo": 85,
+                "nome": "Petição",
+                "dataHora": "2020-12-10T12:35:00.000Z"
+              },
+              {
+                "codigo": 132,
+                "nome": "Recebimento",
+                "dataHora": "2016-09-26T14:50:00.000Z"
+              },
+              {
+                "codigo": 11010,
+                "nome": "Mero expediente",
+                "dataHora": "2016-10-06T12:02:00.000Z"
+              },
+              {
+                "codigo": 11010,
+                "nome": "Mero expediente",
+                "dataHora": "2016-12-19T11:34:00.000Z"
+              },
+              {
+                "codigo": 493,
+                "nome": "Entrega em carga/vista",
+                "dataHora": "2017-01-16T16:04:00.000Z"
+              },
+              {
+                "codigo": 132,
+                "nome": "Recebimento",
+                "dataHora": "2017-01-19T14:21:00.000Z"
+              },
+              {
+                "codigo": 11010,
+                "nome": "Mero expediente",
+                "dataHora": "2017-04-11T14:19:00.000Z"
+              },
+              {
+                "codigo": 493,
+                "nome": "Entrega em carga/vista",
+                "dataHora": "2017-04-11T17:51:00.000Z"
+              },
+              {
+                "codigo": 132,
+                "nome": "Recebimento",
+                "dataHora": "2017-05-04T12:57:00.000Z"
+              },
+              {
+                "codigo": 941,
+                "nome": "Incompetência",
+                "dataHora": "2017-05-25T13:11:00.000Z"
+              },
+              {
+                "codigo": 92,
+                "nome": "Publicação",
+                "dataHora": "2017-05-26T17:20:00.000Z"
+              },
+              {
+                "codigo": 493,
+                "nome": "Entrega em carga/vista",
+                "dataHora": "2017-06-01T11:20:00.000Z"
+              },
+              {
+                "codigo": 132,
+                "nome": "Recebimento",
+                "dataHora": "2017-06-05T13:01:00.000Z"
+              },
+              {
+                "codigo": 1051,
+                "nome": "Decurso de Prazo",
+                "dataHora": "2017-10-13T14:03:00.000Z"
+              },
+              {
+                "codigo": 132,
+                "nome": "Recebimento",
+                "dataHora": "2017-10-17T11:26:00.000Z"
+              },
+              {
+                "codigo": 132,
+                "nome": "Recebimento",
+                "dataHora": "2017-10-20T10:09:00.000Z"
+              },
+              {
+                "codigo": 11010,
+                "nome": "Mero expediente",
+                "dataHora": "2018-04-13T08:37:00.000Z"
+              },
+              {
+                "codigo": 11010,
+                "nome": "Mero expediente",
+                "dataHora": "2018-08-29T10:51:00.000Z"
+              },
+              {
+                "codigo": 1051,
+                "nome": "Decurso de Prazo",
+                "dataHora": "2019-03-14T09:26:00.000Z"
+              },
+              {
+                "codigo": 11010,
+                "nome": "Mero expediente",
+                "dataHora": "2019-09-09T14:54:00.000Z"
+              },
+              {
+                "codigo": 493,
+                "nome": "Entrega em carga/vista",
+                "dataHora": "2019-09-11T10:59:00.000Z"
+              },
+              {
+                "codigo": 132,
+                "nome": "Recebimento",
+                "dataHora": "2019-09-13T11:49:00.000Z"
+              },
+              {
+                "codigo": 493,
+                "nome": "Entrega em carga/vista",
+                "dataHora": "2019-09-20T10:55:00.000Z"
+              },
+              {
+                "codigo": 132,
+                "nome": "Recebimento",
+                "dataHora": "2019-09-24T13:42:00.000Z"
+              },
+              {
+                "codigo": 493,
+                "nome": "Entrega em carga/vista",
+                "dataHora": "2019-09-25T17:03:00.000Z"
+              },
+              {
+                "codigo": 132,
+                "nome": "Recebimento",
+                "dataHora": "2019-10-11T11:52:00.000Z"
+              },
+              {
+                "codigo": 11010,
+                "nome": "Mero expediente",
+                "dataHora": "2020-01-30T12:23:00.000Z"
+              },
+              {
+                "codigo": 493,
+                "nome": "Entrega em carga/vista",
+                "dataHora": "2020-01-31T11:46:00.000Z"
+              },
+              {
+                "codigo": 132,
+                "nome": "Recebimento",
+                "dataHora": "2020-02-11T11:17:00.000Z"
+              },
+              {
+                "codigo": 463,
+                "nome": "Desistência",
+                "dataHora": "2020-11-05T10:57:00.000Z"
+              },
+              {
+                "codigo": 92,
+                "nome": "Publicação",
+                "dataHora": "2020-12-01T12:03:00.000Z"
+              },
+              {
+                "codigo": 493,
+                "nome": "Entrega em carga/vista",
+                "dataHora": "2020-12-02T10:55:00.000Z"
+              },
+              {
+                "codigo": 132,
+                "nome": "Recebimento",
+                "dataHora": "2020-12-10T12:31:00.000Z"
+              },
+              {
+                "codigo": 493,
+                "nome": "Entrega em carga/vista",
+                "dataHora": "2020-12-11T10:41:00.000Z"
+              },
+              {
+                "codigo": 132,
+                "nome": "Recebimento",
+                "dataHora": "2021-02-12T11:28:00.000Z"
+              },
+              {
+                "codigo": 848,
+                "nome": "Trânsito em julgado",
+                "dataHora": "2021-02-12T11:31:00.000Z"
+              },
+              {
+                "codigo": 246,
+                "nome": "Definitivo",
+                "dataHora": "2021-02-12T11:34:00.000Z"
+              }
+            ],
+            "id": "TJPE_1295_G1_6914_00019284020168170110",
+            "nivelSigilo": 0,
+            "orgaoJulgador": {
+              "codigoMunicipioIBGE": 2600104,
+              "codigo": 6914,
+              "nome": "2ª VARA CÍVEL DA COMARCA DE AFOGADOS DA INGAZEIRA"
+            },
+            "assuntos": [
+              {
+                "codigo": 9160,
+                "nome": "Levantamento de Valor"
+              }
+            ]
+          },
+          "sort": [
+            "TJPE_1295_G1_6914_00019284020168170110"
+          ]
+        }
+      ]
+    }
+  },
+  "segunda_pagina": {
+    "took": 2614,
+    "timed_out": false,
+    "_shards": {
+      "total": 1,
+      "successful": 1,
+      "skipped": 0,
+      "failed": 0
+    },
+    "hits": {
+      "total": {
+        "value": 10000,
+        "relation": "gte"
+      },
+      "max_score": null,
+      "hits": [
+        {
+          "_index": "api_publica_tjpe",
+          "_id": "TJPE_156_G1_7333_00015836920248172640",
+          "_score": null,
+          "_source": {
+            "numeroProcesso": "00015836920248172640",
+            "classe": {
+              "codigo": 156,
+              "nome": "Cumprimento de sentença"
+            },
+            "sistema": {
+              "codigo": 1,
+              "nome": "Pje"
+            },
+            "formato": {
+              "codigo": 1,
+              "nome": "Eletrônico"
+            },
+            "tribunal": "TJPE",
+            "dataHoraUltimaAtualizacao": "2024-03-11T02:02:32.245Z",
+            "grau": "G1",
+            "@timestamp": "2025-05-30T21:10:07.502367108Z",
+            "dataAjuizamento": "2024-02-20T00:00:00.000Z",
+            "movimentos": [
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 19,
+                    "valor": 58,
+                    "nome": "Petição inicial",
+                    "descricao": "tipo_de_peticao"
+                  }
+                ],
+                "codigo": 85,
+                "nome": "Petição",
+                "dataHora": "2024-02-20T22:08:11.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 2,
+                    "valor": 2,
+                    "nome": "sorteio",
+                    "descricao": "tipo_de_distribuicao_redistribuicao"
+                  }
+                ],
+                "codigo": 26,
+                "nome": "Distribuição",
+                "dataHora": "2024-02-20T22:08:20.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "valor": 6,
+                    "nome": "para decisão",
+                    "descricao": "tipo_de_conclusao"
+                  }
+                ],
+                "codigo": 51,
+                "nome": "Conclusão",
+                "dataHora": "2024-02-20T22:08:29.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 19,
+                    "valor": 57,
+                    "nome": "Petição (outras)",
+                    "descricao": "tipo_de_peticao"
+                  }
+                ],
+                "codigo": 85,
+                "nome": "Petição",
+                "dataHora": "2024-02-22T13:49:20.000Z"
+              }
+            ],
+            "id": "TJPE_156_G1_7333_00015836920248172640",
+            "nivelSigilo": 0,
+            "orgaoJulgador": {
+              "codigoMunicipioIBGE": 2606002,
+              "codigo": 7333,
+              "nome": "3ª VARA CÍVEL DA COMARCA DE GARANHUNS"
+            },
+            "assuntos": [
+              {
+                "codigo": 13537,
+                "nome": "Sucumbenciais "
+              }
+            ]
+          },
+          "sort": [
+            "TJPE_156_G1_7333_00015836920248172640"
+          ]
+        },
+        {
+          "_index": "api_publica_tjpe",
+          "_id": "TJPE_159_G1_6914_00027081420158170110",
+          "_score": null,
+          "_source": {
+            "numeroProcesso": "00027081420158170110",
+            "classe": {
+              "codigo": 159,
+              "nome": "Execução de Título Extrajudicial"
+            },
+            "sistema": {
+              "codigo": -1,
+              "nome": "Inválido"
+            },
+            "formato": {
+              "codigo": 2,
+              "nome": "Físico"
+            },
+            "tribunal": "TJPE",
+            "dataHoraUltimaAtualizacao": "2020-11-23T02:16:54.603Z",
+            "grau": "G1",
+            "@timestamp": "2025-05-30T17:49:55.448809437Z",
+            "dataAjuizamento": "2015-12-22T00:00:00.000Z",
+            "id": "TJPE_159_G1_6914_00027081420158170110",
+            "nivelSigilo": 0,
+            "orgaoJulgador": {
+              "codigoMunicipioIBGE": 2600104,
+              "codigo": 6914,
+              "nome": "2ª VARA CÍVEL DA COMARCA DE AFOGADOS DA INGAZEIRA"
+            },
+            "assuntos": [
+              {
+                "codigo": 10671,
+                "nome": "Obrigação de Fazer / Não Fazer"
+              },
+              {
+                "codigo": 10671,
+                "nome": "Obrigação de Fazer / Não Fazer"
+              }
+            ]
+          },
+          "sort": [
+            "TJPE_159_G1_6914_00027081420158170110"
+          ]
+        },
+        {
+          "_index": "api_publica_tjpe",
+          "_id": "TJPE_1689_G2_70647_00176171320098170000",
+          "_score": null,
+          "_source": {
+            "numeroProcesso": "00176171320098170000",
+            "classe": {
+              "codigo": 1689,
+              "nome": "Embargos de Declaração Cível"
+            },
+            "sistema": {
+              "codigo": 8,
+              "nome": "Outros"
+            },
+            "formato": {
+              "codigo": 2,
+              "nome": "Físico"
+            },
+            "tribunal": "TJPE",
+            "dataHoraUltimaAtualizacao": "2023-12-11T01:16:24.349Z",
+            "grau": "G2",
+            "@timestamp": "2025-05-30T21:10:01.824757441Z",
+            "dataAjuizamento": "2009-11-26T00:00:00.000Z",
+            "movimentos": [
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 107,
+                    "nome": "Certidão",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 581,
+                "nome": "Documento",
+                "dataHora": "2011-12-20T13:50:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 2,
+                    "valor": 1,
+                    "nome": "competência exclusiva",
+                    "descricao": "tipo_de_distribuicao_redistribuicao"
+                  },
+                  {
+                    "codigo": 17,
+                    "valor": 34,
+                    "nome": "sucessão",
+                    "descricao": "motivo_da_redistribuicao"
+                  }
+                ],
+                "codigo": 36,
+                "nome": "Redistribuição",
+                "dataHora": "2021-06-08T13:54:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 107,
+                    "nome": "Certidão",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 581,
+                "nome": "Documento",
+                "dataHora": "2010-03-02T16:25:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 107,
+                    "nome": "Certidão",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 581,
+                "nome": "Documento",
+                "dataHora": "2011-05-19T17:48:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 107,
+                    "nome": "Certidão",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 581,
+                "nome": "Documento",
+                "dataHora": "2010-04-09T14:13:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 107,
+                    "nome": "Certidão",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 581,
+                "nome": "Documento",
+                "dataHora": "2010-01-14T08:17:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 107,
+                    "nome": "Certidão",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 581,
+                "nome": "Documento",
+                "dataHora": "2009-12-03T10:13:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 117,
+                    "nome": "Acórdão",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 581,
+                "nome": "Documento",
+                "dataHora": "2009-12-21T10:27:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 18,
+                    "valor": 40,
+                    "nome": "outros motivos",
+                    "descricao": "motivo_da_remessa"
+                  }
+                ],
+                "codigo": 123,
+                "nome": "Remessa",
+                "dataHora": "2009-11-30T14:54:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 18,
+                    "valor": 40,
+                    "nome": "outros motivos",
+                    "descricao": "motivo_da_remessa"
+                  }
+                ],
+                "codigo": 123,
+                "nome": "Remessa",
+                "dataHora": "2009-12-21T10:40:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 2,
+                    "valor": 1,
+                    "nome": "competência exclusiva",
+                    "descricao": "tipo_de_distribuicao_redistribuicao"
+                  }
+                ],
+                "codigo": 26,
+                "nome": "Distribuição",
+                "dataHora": "2009-11-30T14:49:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 107,
+                    "nome": "Certidão",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 581,
+                "nome": "Documento",
+                "dataHora": "2018-01-12T15:35:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "valor": 5,
+                    "nome": "para despacho",
+                    "descricao": "tipo_de_conclusao"
+                  }
+                ],
+                "codigo": 51,
+                "nome": "Conclusão",
+                "dataHora": "2009-12-03T10:14:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 18,
+                    "valor": 40,
+                    "nome": "outros motivos",
+                    "descricao": "motivo_da_remessa"
+                  }
+                ],
+                "codigo": 123,
+                "nome": "Remessa",
+                "dataHora": "2010-04-29T11:39:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 18,
+                    "valor": 40,
+                    "nome": "outros motivos",
+                    "descricao": "motivo_da_remessa"
+                  }
+                ],
+                "codigo": 123,
+                "nome": "Remessa",
+                "dataHora": "2010-01-14T08:19:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 18,
+                    "valor": 40,
+                    "nome": "outros motivos",
+                    "descricao": "motivo_da_remessa"
+                  }
+                ],
+                "codigo": 123,
+                "nome": "Remessa",
+                "dataHora": "2010-03-23T11:26:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 18,
+                    "valor": 40,
+                    "nome": "outros motivos",
+                    "descricao": "motivo_da_remessa"
+                  }
+                ],
+                "codigo": 123,
+                "nome": "Remessa",
+                "dataHora": "2010-03-01T12:09:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 18,
+                    "valor": 40,
+                    "nome": "outros motivos",
+                    "descricao": "motivo_da_remessa"
+                  }
+                ],
+                "codigo": 123,
+                "nome": "Remessa",
+                "dataHora": "2023-11-22T14:26:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "valor": 36,
+                    "nome": "para julgamento",
+                    "descricao": "tipo_de_conclusao"
+                  }
+                ],
+                "codigo": 51,
+                "nome": "Conclusão",
+                "dataHora": "2009-12-14T14:38:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 18,
+                    "valor": 40,
+                    "nome": "outros motivos",
+                    "descricao": "motivo_da_remessa"
+                  }
+                ],
+                "codigo": 123,
+                "nome": "Remessa",
+                "dataHora": "2010-01-14T17:30:00.000Z"
+              },
+              {
+                "codigo": 245,
+                "nome": "Provisório",
+                "dataHora": "2014-08-07T15:34:00.000Z"
+              },
+              {
+                "codigo": 893,
+                "nome": "Desarquivamento",
+                "dataHora": "2023-11-22T14:24:00.000Z"
+              },
+              {
+                "codigo": 245,
+                "nome": "Provisório",
+                "dataHora": "2021-06-08T13:55:00.000Z"
+              },
+              {
+                "codigo": 193,
+                "nome": "Julgamento",
+                "dataHora": "2009-12-11T09:00:00.000Z"
+              },
+              {
+                "codigo": 893,
+                "nome": "Desarquivamento",
+                "dataHora": "2018-01-12T15:33:00.000Z"
+              },
+              {
+                "codigo": 12115,
+                "nome": "Para julgamento de mérito",
+                "dataHora": "2009-12-11T08:50:00.000Z"
+              },
+              {
+                "codigo": 92,
+                "nome": "Publicação",
+                "dataHora": "2010-01-12T16:53:00.000Z"
+              }
+            ],
+            "id": "TJPE_1689_G2_70647_00176171320098170000",
+            "nivelSigilo": 0,
+            "orgaoJulgador": {
+              "codigoMunicipioIBGE": 2611606,
+              "codigo": 70647,
+              "nome": "Gab. Des. Itabira de Brito Filho"
+            },
+            "assuntos": [
+              {
+                "codigo": 5001,
+                "nome": "Liquidação"
+              }
+            ]
+          },
+          "sort": [
+            "TJPE_1689_G2_70647_00176171320098170000"
+          ]
+        },
+        {
+          "_index": "api_publica_tjpe",
+          "_id": "TJPE_172_G1_6914_00022283620158170110",
+          "_score": null,
+          "_source": {
+            "numeroProcesso": "00022283620158170110",
+            "classe": {
+              "codigo": 172,
+              "nome": "Embargos à Execução"
+            },
+            "sistema": {
+              "codigo": 8,
+              "nome": "Outros"
+            },
+            "formato": {
+              "codigo": 2,
+              "nome": "Físico"
+            },
+            "tribunal": "TJPE",
+            "dataHoraUltimaAtualizacao": "2023-07-29T12:35:25.648Z",
+            "grau": "G1",
+            "@timestamp": "2025-05-30T20:53:17.054422261Z",
+            "dataAjuizamento": "2015-10-15T00:00:00.000Z",
+            "movimentos": [
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 2,
+                    "valor": 4,
+                    "nome": "dependência",
+                    "descricao": "tipo_de_distribuicao_redistribuicao"
+                  }
+                ],
+                "codigo": 26,
+                "nome": "Distribuição",
+                "dataHora": "2015-10-15T15:16:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "valor": 5,
+                    "nome": "para despacho",
+                    "descricao": "tipo_de_conclusao"
+                  }
+                ],
+                "codigo": 51,
+                "nome": "Conclusão",
+                "dataHora": "2015-10-16T12:02:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 170,
+                    "nome": "Carta",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 60,
+                "nome": "Expedição de documento",
+                "dataHora": "2015-11-05T13:31:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 170,
+                    "nome": "Carta",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 581,
+                "nome": "Documento",
+                "dataHora": "2015-11-10T17:42:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 4,
+                    "valor": 74,
+                    "nome": "Aviso de recebimento (AR)",
+                    "descricao": "tipo_de_documento"
+                  }
+                ],
+                "codigo": 581,
+                "nome": "Documento",
+                "dataHora": "2016-01-06T18:12:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 19,
+                    "valor": 215,
+                    "nome": "Impugnação",
+                    "descricao": "tipo_de_peticao"
+                  }
+                ],
+                "codigo": 85,
+                "nome": "Petição",
+                "dataHora": "2016-01-18T10:53:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "valor": 5,
+                    "nome": "para despacho",
+                    "descricao": "tipo_de_conclusao"
+                  }
+                ],
+                "codigo": 51,
+                "nome": "Conclusão",
+                "dataHora": "2016-02-23T10:55:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 19,
+                    "valor": 57,
+                    "nome": "Petição (outras)",
+                    "descricao": "tipo_de_peticao"
+                  }
+                ],
+                "codigo": 85,
+                "nome": "Petição",
+                "dataHora": "2016-07-15T14:52:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "valor": 5,
+                    "nome": "para despacho",
+                    "descricao": "tipo_de_conclusao"
+                  }
+                ],
+                "codigo": 51,
+                "nome": "Conclusão",
+                "dataHora": "2016-07-15T14:55:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 19,
+                    "valor": 57,
+                    "nome": "Petição (outras)",
+                    "descricao": "tipo_de_peticao"
+                  }
+                ],
+                "codigo": 85,
+                "nome": "Petição",
+                "dataHora": "2016-10-06T13:19:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "valor": 5,
+                    "nome": "para despacho",
+                    "descricao": "tipo_de_conclusao"
+                  }
+                ],
+                "codigo": 51,
+                "nome": "Conclusão",
+                "dataHora": "2016-10-06T13:22:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 19,
+                    "valor": 57,
+                    "nome": "Petição (outras)",
+                    "descricao": "tipo_de_peticao"
+                  }
+                ],
+                "codigo": 85,
+                "nome": "Petição",
+                "dataHora": "2017-04-05T15:02:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "valor": 5,
+                    "nome": "para despacho",
+                    "descricao": "tipo_de_conclusao"
+                  }
+                ],
+                "codigo": 51,
+                "nome": "Conclusão",
+                "dataHora": "2017-04-05T15:05:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "valor": 5,
+                    "nome": "para despacho",
+                    "descricao": "tipo_de_conclusao"
+                  }
+                ],
+                "codigo": 51,
+                "nome": "Conclusão",
+                "dataHora": "2017-10-31T14:31:00.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 19,
+                    "valor": 57,
+                    "nome": "Petição (outras)",
+                    "descricao": "tipo_de_peticao"
+                  }
+                ],
+                "codigo": 85,
+                "nome": "Petição",
+                "dataHora": "2022-09-06T09:31:00.000Z"
+              },
+              {
+                "codigo": 11010,
+                "nome": "Mero expediente",
+                "dataHora": "2015-10-26T09:41:00.000Z"
+              },
+              {
+                "codigo": 11010,
+                "nome": "Mero expediente",
+                "dataHora": "2016-05-10T12:22:00.000Z"
+              },
+              {
+                "codigo": 493,
+                "nome": "Entrega em carga/vista",
+                "dataHora": "2016-05-11T13:35:00.000Z"
+              },
+              {
+                "codigo": 132,
+                "nome": "Recebimento",
+                "dataHora": "2016-05-16T13:01:00.000Z"
+              },
+              {
+                "codigo": 493,
+                "nome": "Entrega em carga/vista",
+                "dataHora": "2016-06-22T11:24:00.000Z"
+              },
+              {
+                "codigo": 132,
+                "nome": "Recebimento",
+                "dataHora": "2016-07-04T12:13:00.000Z"
+              },
+              {
+                "codigo": 11010,
+                "nome": "Mero expediente",
+                "dataHora": "2017-01-20T13:51:00.000Z"
+              },
+              {
+                "codigo": 11010,
+                "nome": "Mero expediente",
+                "dataHora": "2017-10-27T12:01:00.000Z"
+              },
+              {
+                "codigo": 11010,
+                "nome": "Mero expediente",
+                "dataHora": "2017-12-15T12:11:00.000Z"
+              },
+              {
+                "codigo": 1051,
+                "nome": "Decurso de Prazo",
+                "dataHora": "2018-06-13T11:31:00.000Z"
+              },
+              {
+                "codigo": 246,
+                "nome": "Definitivo",
+                "dataHora": "2018-06-13T11:34:00.000Z"
+              },
+              {
+                "codigo": 893,
+                "nome": "Desarquivamento",
+                "dataHora": "2022-09-06T08:59:00.000Z"
+              },
+              {
+                "codigo": 246,
+                "nome": "Definitivo",
+                "dataHora": "2022-09-06T09:34:00.000Z"
+              }
+            ],
+            "id": "TJPE_172_G1_6914_00022283620158170110",
+            "nivelSigilo": 0,
+            "orgaoJulgador": {
+              "codigoMunicipioIBGE": 2600104,
+              "codigo": 6914,
+              "nome": "2ª VARA CÍVEL DA COMARCA DE AFOGADOS DA INGAZEIRA"
+            },
+            "assuntos": [
+              {
+                "codigo": 9518,
+                "nome": "Efeito Suspensivo / Impugnação / Embargos à Execução"
+              }
+            ]
+          },
+          "sort": [
+            "TJPE_172_G1_6914_00022283620158170110"
+          ]
+        },
+        {
+          "_index": "api_publica_tjpe",
+          "_id": "TJPE_198_G2_82772_00003867720188173420",
+          "_score": null,
+          "_source": {
+            "numeroProcesso": "00003867720188173420",
+            "classe": {
+              "codigo": 198,
+              "nome": "Apelação Cível"
+            },
+            "sistema": {
+              "codigo": 1,
+              "nome": "Pje"
+            },
+            "formato": {
+              "codigo": 1,
+              "nome": "Eletrônico"
+            },
+            "tribunal": "TJPE",
+            "dataHoraUltimaAtualizacao": "2024-05-29T06:23:00.317Z",
+            "grau": "G2",
+            "@timestamp": "2025-05-30T21:10:20.485469251Z",
+            "dataAjuizamento": "2023-07-11T00:00:00.000Z",
+            "movimentos": [
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 2,
+                    "valor": 2,
+                    "nome": "sorteio",
+                    "descricao": "tipo_de_distribuicao_redistribuicao"
+                  }
+                ],
+                "codigo": 26,
+                "nome": "Distribuição",
+                "dataHora": "2023-07-11T14:28:14.000Z"
+              },
+              {
+                "complementosTabelados": [
+                  {
+                    "codigo": 3,
+                    "valor": 5,
+                    "nome": "para despacho",
+                    "descricao": "tipo_de_conclusao"
+                  }
+                ],
+                "codigo": 51,
+                "nome": "Conclusão",
+                "dataHora": "2023-07-11T14:28:17.000Z"
+              },
+              {
+                "codigo": 132,
+                "nome": "Recebimento",
+                "dataHora": "2023-07-11T14:28:18.000Z"
+              }
+            ],
+            "id": "TJPE_198_G2_82772_00003867720188173420",
+            "nivelSigilo": 0,
+            "orgaoJulgador": {
+              "codigoMunicipioIBGE": 2611606,
+              "codigo": 82772,
+              "nome": "GAB. DES. RUY TREZENA PATU JÚNIOR"
+            },
+            "assuntos": [
+              {
+                "codigo": 7768,
+                "nome": "Rescisão do contrato e devolução do dinheiro"
+              },
+              {
+                "codigo": 7780,
+                "nome": "Indenização por Dano Material"
+              }
+            ]
+          },
+          "sort": [
+            "TJPE_198_G2_82772_00003867720188173420"
+          ]
+        }
+      ]
+    }
+  },
+  "validacao": {
+    "quantidade_pagina_1": 5,
+    "quantidade_pagina_2": 5,
+    "ultimo_sort_pagina_1": [
+      "TJPE_1295_G1_6914_00019284020168170110"
+    ],
+    "ids_repetidos": []
+  }
+}

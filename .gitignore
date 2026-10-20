@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.vscode/
+.pytest_cache/
+*.log
+*.zip
+
+# Arquivo bruto gerado pelo pipeline (recriado pela API)
+samples/processos_maio_julho_2026.json
+
+# Materiais pessoais de preparação para entrevista
+docs/roteiro_apresentacao.md
+docs/preparacao_apresentacao_gestores.md
+docs/roteiro_compartilhamento_40_min.md
+docs/guia_perguntas_respostas_gestores.md
+docs/perguntas_principais_entrevista.md
+
